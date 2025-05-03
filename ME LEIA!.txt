@@ -1,0 +1,3 @@
+Para usar o algoritmo genético, basta abrir o arquivo "Geral.py" no seu compilador de Python, e rodar o programa
+
+Lembre-se que todos os arquivos que estão dentro da pasta "Algoritmo Genético" precisam estar presentes também!

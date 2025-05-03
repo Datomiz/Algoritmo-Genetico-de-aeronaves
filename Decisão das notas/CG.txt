@@ -1,0 +1,18 @@
+(x,y)
+
+x = porcentagem do CG na corda da asa
+
+y = nota (entre 1 e 100)
+
+pontos:
+
+pontuar(0,0)
+pontuar(25,100)
+pontuar(50,0)
+
+
+
+f(x) = -0.16*x**2 + 8.0*x + 1.13686837721616e-13
+
+Erro máximo:  0.0 %
+R² = 1.0

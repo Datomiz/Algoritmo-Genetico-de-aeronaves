@@ -1,0 +1,24 @@
+(x,y)
+
+x = CARGA PAGA
+
+y = nota (entre 1 e 100)
+
+pontos:
+
+
+
+pontuar(5,0)
+pontuar(6,10)
+pontuar(8,15)
+pontuar(10,35)
+pontuar(12,60)
+pontuar(14,100)
+
+
+Aqui a função com maior R2:
+
+f(x) = -13566.518*math.exp(-x) + 0.0387*x**3 + 2755.415*x*math.exp(-x) - 6.149
+
+Erro máximo:  9.91 %
+R² = 0.9991
